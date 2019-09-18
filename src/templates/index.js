@@ -9,6 +9,7 @@ import Card from '../components/Card';
 import Container from '../components/Container';
 import Pagination from '../components/Pagination';
 import Summary from '../components/Summary';
+import imgSrc from '../../main.jpg';
 
 const IndexPage = ({ pageContext }) => {
   const { group, index, pageCount } = pageContext;
@@ -16,6 +17,12 @@ const IndexPage = ({ pageContext }) => {
   const nextUrl = (index + 1).toString();
   return (
     <Layout>
+      <img src={imgSrc} alt="This is my face." style={{
+        margin: '0px auto', 
+        display: 'block', 
+        marginBottom: '50px',
+        width: '200px',
+        borderRadius: '100px' }} />
       <Container>
         <Helmet
           title={`${userConfig.title} | ${userConfig.author}`}

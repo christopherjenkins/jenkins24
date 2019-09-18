@@ -1,7 +1,7 @@
 module.exports = {
   title: 'nice.', // Required
   author: 'Chris Jenkins', // Required
-  description: 'this is a personal website, NOT a reflection of my professional portfolio.',
+  description: 'This is a personal website, not a reflection of my professional portfolio.',
   primaryColor: '#27fdf5', // Required
   showHeaderImage: false,
   showShareButtons: true,
