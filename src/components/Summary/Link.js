@@ -3,7 +3,7 @@ import GatsbyLink from 'gatsby-link';
 import userConfig from '../../../config';
 
 const Link = styled(GatsbyLink)`
-  color: #3e465b;
+  color: #27fdf5;
   text-decoration: none;
 
   &:hover {

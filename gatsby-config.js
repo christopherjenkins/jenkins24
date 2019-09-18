@@ -56,7 +56,7 @@ module.exports = {
         name: userConfig.title,
         short_name: userConfig.title,
         start_url: userConfig.siteUrl,
-        background_color: '#fff',
+        background_color: '#666',
         theme_color: userConfig.primaryColor,
         display: 'minimal-ui',
         icon: 'src/main.jpg',

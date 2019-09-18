@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 const SocialLink = styled.a`
-  border: 1px solid #bfc8d2;
+  border: 1px solid #f765b8;
   border-radius: 15px;
-  color: #3e465b;
+  color: #27fdf5;
   display: inline-block;
   margin: 5px;
   padding: 5px 10px;
@@ -13,13 +13,13 @@ const SocialLink = styled.a`
     display: inline-block;
     height: 20px;
     margin-right: 5px;
-    stroke: #6e849c;
+    stroke: #27fdf5;
     vertical-align: middle;
     width: 20px;
   }
 
   &:hover {
-    border-color: #3e465b;
+    border-color: #f98dc9;
   }
 `;
 

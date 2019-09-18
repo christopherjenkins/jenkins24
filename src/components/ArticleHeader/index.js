@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const PostHeader = styled.div`
   h1 {
-    color: #3e465b;
+    color: #27fdf5;
     font-size: 35px;
     line-height: 1.5;
     margin: 0;
@@ -11,7 +11,7 @@ const PostHeader = styled.div`
   }
 
   p {
-    color: #666d71;
+    color: #a8f6f8;
     display: block;
     font-size: 1.6em;
     margin: 0;

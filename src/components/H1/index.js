@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const H1 = styled.h1`
-  color: #3e465b;
+  color: #27fdf5;
   font-size: 35px;
   line-height: 1.5;
   margin: 0;
