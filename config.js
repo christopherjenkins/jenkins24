@@ -5,7 +5,7 @@ module.exports = {
   primaryColor: '#27fdf5', // Required
   showHeaderImage: false,
   showShareButtons: true,
-  postsPerPage: 5, // Required
+  postsPerPage: 10, // Required
   social: {
     website: 'https://jenkins24.com',
     github: 'https://github.com/christopherjenkins',
