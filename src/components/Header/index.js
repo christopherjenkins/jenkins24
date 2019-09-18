@@ -19,6 +19,7 @@ function Header({ config }) {
           <HeaderImage/>
         )}
         <H1><Link to="/">{author}</Link></H1>
+        <P><Link to="/about/">About</Link></P>
         <P>{description}</P>
         {social &&
           <Social
