@@ -20,7 +20,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background: #444444;
+    background: linear-gradient(90deg, rgba(34,34,34,1) 0%, rgba(9,9,121,1) 77%, rgba(247,101,184,1) 100%);    ;
     font-family: 'Roboto', sans-serif; 
     line-height: 1.5;
     padding: 50px 0;
