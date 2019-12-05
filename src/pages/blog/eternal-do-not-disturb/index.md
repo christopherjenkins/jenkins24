@@ -1,6 +1,6 @@
 ---
 title: Eternal Do Not Disturb
-date: "2019-12-4"
+date: "2019-12-04"
 ---
 
 Don't let distractions keep you from real life.
